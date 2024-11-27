@@ -143,12 +143,12 @@ Make sure to replace the placeholder values (`<your_database_name>`, `<your_data
    ```javascript
    // await require('./scripts/seedData')();
 
-6. Run the application with `nodemon`:  
+6. Run the application :  
    ```bash
-   nodemon .
+   node index.js
    ```
    - This will start the server and automatically sync the database, as Sequelize will handle this on app startup.
-
+     
 ---
 
 ## **Testing the API with Postman**
