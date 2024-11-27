@@ -156,7 +156,7 @@ Make sure to replace the placeholder values (`<your_database_name>`, `<your_data
 We have included a **Postman collection** for testing all API endpoints.
 
 1. **Download the Postman Collection**:  
-   Download the [Postman collection](https://www.postman.com/planetary-flare-685115/workspace/blog-api-postman-collection/collection/29626424-a9eb284c-e8b1-4c2f-833b-986d1aec42cd?action=share&creator=29626424) that contains all the API endpoints for the blog application.
+   Download the [Postman collection](https://www.postman.com/research-technologist-46749488/blog-api/documentation/utco70p/blog-api) that contains all the API endpoints for the blog application.
 
 2. **Import the Collection into Postman**:  
    - Open Postman.
@@ -177,7 +177,7 @@ We have included a **Postman collection** for testing all API endpoints.
 ## **Usage**
 
 ### **Endpoints**
-All endpoints are prefixed with `/api/`. Refer to the [Postman Collection](link-to-postman-collection) for detailed documentation of each endpoint, including sample requests and responses.
+All endpoints are prefixed with `/api/`. Refer to the [Postman Documentation](https://documenter.getpostman.com/view/39497429/2sAYBXAAcx) for detailed documentation of each endpoint, including sample requests and responses.
 
 #### **Key Endpoints**:
 - **User Management**: `/api/user`  
